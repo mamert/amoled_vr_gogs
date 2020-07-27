@@ -3,8 +3,11 @@
 
 ## Opis szczegółowy:
 
-### [01_intro](01_intro.md)
-![Wstęp](nb_pics/index/tn_sec01.png)
+### [Wstęp](01_intro.md)
+[![](nb_pics/index/tn_sec01.png)](01_intro.md)
 
-### [02_parts](02_parts.md)
-![Części](nb_pics/index/tn_sec02.jpg)
+### [Części](02_parts.md)
+[![](nb_pics/index/tn_sec02.jpg)](02_parts.md)
+
+### [Składanie](03_assembly.md)
+[![](nb_pics/index/tn_sec03.jpg)](03_assembly.md)
