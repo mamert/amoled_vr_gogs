@@ -10,9 +10,9 @@ Niekoniecznie na szerokość boiska, ale pewnie fajnie będzie zezować z kilkum
 ## Jak?
 Jakoś tak:
 
-![xkcd strip 941](nb_pics/drawing01a.jpg)
-Stojak z **2 kamerami** łączonymi przez WiFi (by można było je stawiać nie zależnie od siebie).
-![xkcd strip 941](nb_pics/drawing01b.jpg)
+![xkcd strip 941](nb_pics/drawing01a.jpg)<br>
+Stojak z **2 kamerami** łączonymi przez WiFi (by można było je stawiać nie zależnie od siebie).<br>
+![xkcd strip 941](nb_pics/drawing01b.jpg)<br>
 **Raspberry Pi** jako odbiornik.<br>
 **Ekran AMOLED** przed soczewkami **VR gogli**.
 
