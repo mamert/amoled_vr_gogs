@@ -42,7 +42,11 @@ Zwykła, plastikowa obudowa, tylko do przerobienia by nowe gniazda mogły wejś�
 
 
 
-
+### Kamerki
+Jako "oczy" systemu, zastosowane zostaną dwie IP kamerki.<br>
+Jako że nie ufam już tanim produktom, a za cenę lepszych mam Raspberry Pi Zero W z osprzętem, preferujętą drugą opcję jako dającąwięcej swobody.
+![pi 0 camera](nb_pics/p0cam01.jpg)<br>
+Klips opcjonalny, ale z pewnością praktyczny :)
 
 
 
