@@ -4,5 +4,5 @@
 
 ## Opis szczegółowy:
 
-### [01_intro](01_intro.ipynb)
+### [01_intro](01_intro.md)
 
