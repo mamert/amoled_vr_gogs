@@ -10,7 +10,7 @@ Regulacja odstępu i rozstawu soczewek.
 
 
 ### Ekran
-Wstępnie, miał być ten:
+Wstępnie, miał być ten:<br>
 ![uwhd](nb_pics/uwhd_screen01.jpg)<br>
 **2560x1440**, najlepsza rozdzielczość do czegoś takiego! Nie AMOLED, ale super cienkie, lekkie.<br>
 Planowałem użyć Raspberry Pi Zero W i utrzymywać przód urządzenia tak lekki jak sięda, do swobodniejszego noszenia niż z telefonem.<br>
@@ -23,19 +23,19 @@ Mam za to jeszcze kupiony wcześniej [ekran **AMOLED**, specjalnie do Raspberry 
 ![amoled](nb_pics/waveshare01.jpg)<br>
 Co prawda jest grubszy od samego LCD...<br>
 ![amoled](nb_pics/waveshare02.jpg)<br>
-i do tego przeznaczony do przykręcenia pełnowymiarowego Raspberry Pi z tyłu (więc nici z superlekkości), to ma plus: AMOLED. Super jakość kolorów i naprawdę czarna czerń.
+i do tego przeznaczony do przykręcenia pełnowymiarowego Raspberry Pi z tyłu (więc nici z superlekkości), no i znacznie droższy, ale ma plus: AMOLED. Super jakość kolorów i naprawdę czarna czerń.
 
 
 
 ### Raspberry Pi
 OK, mały problem: nie jestem właścicielem ani jednej pełnowymiarowej malinki. Same RPi0...<br>
-Ale z pomocą przychodzi kolega [Marcin](https://yasiu.pl)
+Ale z pomocą przychodzi kolega [Marcin](https://yasiu.pl)<br>
 ![pi](nb_pics/pi01.jpg)
 
 
 
 ### Obudowa do Pi
-Malinka z ekranem zespajają się w taki sposób:
+Malinka z ekranem zespajają się w taki sposób:<br>
 ![pi+amoled](nb_pics/pi_amoled01.jpg)<br>
 ... ale sądzę że trochę osłony będzie zdrowe.<br>
 Zwykła, plastikowa obudowa, tylko do przerobienia by nowe gniazda mogły wejść.
@@ -44,7 +44,7 @@ Zwykła, plastikowa obudowa, tylko do przerobienia by nowe gniazda mogły wejś�
 
 ### Kamerki
 Jako "oczy" systemu, zastosowane zostaną dwie IP kamerki.<br>
-Jako że nie ufam już tanim produktom, a za cenę lepszych mam Raspberry Pi Zero W z osprzętem, preferujętą drugą opcję jako dającąwięcej swobody.
+Jako że nie ufam już tanim produktom, a za cenę lepszych mam Raspberry Pi Zero W z osprzętem, preferuję tą drugą opcję jako dającą więcej swobody.<br>
 ![pi 0 camera](nb_pics/p0cam01.jpg)<br>
 Klips opcjonalny, ale z pewnością praktyczny :)
 
