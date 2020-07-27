@@ -1,0 +1,8 @@
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# other garbage
+__raw/
+test01.ipynb
