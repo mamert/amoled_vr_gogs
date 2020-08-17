@@ -1,4 +1,4 @@
-[![xkcd strip 941](nb_pics/xkcd941.jpg)](https://xkcd.com/941/)
+[![xkcd strip 941](_pics/xkcd941.jpg)](https://xkcd.com/941/)
 
 ## Titan vision
 Chcę to.
@@ -10,9 +10,9 @@ Niekoniecznie na szerokość boiska, ale pewnie fajnie będzie zezować z kilkum
 ## Jak?
 Jakoś tak:
 
-![rysunek a](nb_pics/drawing01a.jpg)<br>
+![rysunek a](_pics/drawing01a.jpg)<br>
 Stojak z **2 kamerami** łączonymi przez WiFi (by można było je stawiać nie zależnie od siebie).<br>
-![rysunek b](nb_pics/drawing01b.jpg)<br>
+![rysunek b](_pics/drawing01b.jpg)<br>
 **Raspberry Pi** jako odbiornik.<br>
 **Ekran AMOLED** przed soczewkami **VR gogli**.
 
