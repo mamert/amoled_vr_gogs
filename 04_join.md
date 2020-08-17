@@ -21,7 +21,5 @@ Więc, oczywiście, pociąć to w diabły :)<br>
 ![zestaw](_pics/szufladka_cut02.jpg)<br>
 ![zestaw](_pics/szufladka_cut03.jpg)<br>
 
-
-## Ciąg dalszy nastąpi...
 Mamy więc 2 części które za nic do siebie nie pasują, a mają być scalone.<br>
 Myślę że pora na (zabarwiony na czarno) PCL :)<br>

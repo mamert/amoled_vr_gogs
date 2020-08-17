@@ -14,3 +14,6 @@
 
 ### [Gogle + ekran](04_join.md)
 [![](_pics/index/tn_sec04.jpg)](04_join.md)
+
+### [Szufladka + ekran](05_join2.md)
+[![](_pics/index/tn_sec05.jpg)](05_join2.md)
