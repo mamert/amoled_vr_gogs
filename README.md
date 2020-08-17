@@ -11,3 +11,6 @@
 
 ### [Obudowa Pi](03_pi_case.md)
 [![](_pics/index/tn_sec03.jpg)](03_pi_case.md)
+
+### [Gogle + ekran](04_join.md)
+[![](_pics/index/tn_sec04.jpg)](04_join.md)
