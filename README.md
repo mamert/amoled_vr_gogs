@@ -9,5 +9,5 @@
 ### [Części](02_parts.md)
 [![](_pics/index/tn_sec02.jpg)](02_parts.md)
 
-### [Składanie](03_assembly.md)
-[![](_pics/index/tn_sec03.jpg)](03_assembly.md)
+### [Obudowa Pi](03_pi_case.md)
+[![](_pics/index/tn_sec03.jpg)](03_pi_case.md)
