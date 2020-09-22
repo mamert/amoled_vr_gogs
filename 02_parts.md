@@ -29,7 +29,7 @@ i do tego przeznaczony do przykręcenia pełnowymiarowego Raspberry Pi z tyłu (
 
 ### Raspberry Pi
 OK, mały problem: nie jestem właścicielem ani jednej pełnowymiarowej malinki. Same RPi0...<br>
-Ale z pomocą przychodzi kolega [Marcin](https://yasiu.pl)<br>
+Ale z pomocą przychodzi kolega [Yasiu](https://yasiu.pl)<br>
 ![pi](_pics/pi01.jpg)
 
 

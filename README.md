@@ -21,6 +21,6 @@
 ### [System operacyjny](06_os.md)
 [![](_pics/index/tn_sec06.jpg)](06_os.md)
 
-### [Kaput](07_kaput.md)
-[![](_pics/index/tn_sec07.jpg)](07_kaput.md)
+### [Zmiana ekranu](07_otherscreen.md)
+[![](_pics/index/tn_sec07.jpg)](07_otherscreen.md)
 
