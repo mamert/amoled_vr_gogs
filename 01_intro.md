@@ -11,7 +11,7 @@ Niekoniecznie na szerokość boiska, ale pewnie fajnie będzie zezować z kilkum
 Jakoś tak:
 
 ![rysunek a](_pics/drawing01a.jpg)<br>
-Stojak z **2 kamerami** łączonymi przez WiFi (by można było je stawiać nie zależnie od siebie).<br>
+Stojak z **2 kamerami** łączonymi przez WiFi (by można było je stawiać niezależnie od siebie).<br>
 ![rysunek b](_pics/drawing01b.jpg)<br>
 **Raspberry Pi** jako odbiornik.<br>
 **Ekran AMOLED** przed soczewkami **VR gogli**.
