@@ -13,7 +13,7 @@ Regulacja odstępu i rozstawu soczewek.
 Wstępnie, miał być ten:<br>
 ![uwhd](_pics/uwhd_screen01.jpg)<br>
 **2560x1440**, najlepsza rozdzielczość do czegoś takiego! Nie AMOLED, ale super cienkie, lekkie.<br>
-Planowałem użyć Raspberry Pi Zero W i utrzymywać przód urządzenia tak lekki jak sięda, do swobodniejszego noszenia niż z telefonem.<br>
+Planowałem użyć Raspberry Pi Zero W i utrzymywać przód urządzenia tak lekki jak się da, do swobodniejszego noszenia niż z ciężkim telefonem.<br>
 Wszystko było gotowe...<br>
 ![uwhd](_pics/set01.jpg)<br>
 ... tylko sterownik ekranu nie działa z 50Hz (Raspberry Pi).

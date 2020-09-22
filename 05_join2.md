@@ -2,10 +2,10 @@
 ## Szufladka + ekran
 
 ![zestaw](_pics/szufladka_cut03.jpg)<br>
-To są2 części któe się nie trzymają siebie nawzajem, a powinny.
+To są 2 części które się nie trzymają siebie nawzajem, a muszą.
 Na ratunek: PCL (Polymorph) zabarwiony na czarno!
 
-Nie chcemy jednak trwale skleić ekranu - nie gdy możemy użyć śrub.<br>
+Nie chcemy jednak trwale skleić ekranu - nie, gdy możemy użyć śrub.<br>
 Szufladka będzie trzymać podkładki, a ekran będzie do nich przykręcany śrubami.<br>
 Wpierw przygotować wszystko, i odizolować folią PCL od elektroniki:<br>
 ![zestaw](_pics/szufladka_mont01.jpg)<br>
@@ -26,7 +26,7 @@ a sama szufladka swobodnie się przesuwa:
 PCL zespaja podkładki z resztą szufladki, i utrzymuje odstęp od elektroniki:
 ![zestaw](_pics/szufladka_mont08.jpg)<br>
 
-No, ale choć przesuwa sięswobodnie, szufladka nie trzyma się reszty gogli bez części je domykającej<br>
+No, ale choć przesuwa się swobodnie, szufladka nie trzyma się reszty gogli bez części je domykającej<br>
 - a ta została zdjęta by zmieścić Raspberry Pi.
 
 Ale nie problem, mamy więcej PCL :)<br>

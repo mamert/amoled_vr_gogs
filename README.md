@@ -17,3 +17,10 @@
 
 ### [Szufladka + ekran](05_join2.md)
 [![](_pics/index/tn_sec05.jpg)](05_join2.md)
+
+### [System operacyjny](06_os.md)
+[![](_pics/index/tn_sec06.jpg)](06_os.md)
+
+### [Kaput](07_kaput.md)
+[![](_pics/index/tn_sec07.jpg)](07_kaput.md)
+
